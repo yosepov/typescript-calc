@@ -32,3 +32,8 @@ func(34, "Erez");
 function fun2() {
     console.log('another function');
 }
+
+
+function func3() {
+    console.log("My third function")
+}
