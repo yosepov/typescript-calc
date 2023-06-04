@@ -28,3 +28,7 @@ console.log(name + " is " + age + " years old");
 }
 
 func(34, "Erez");
+
+function fun2() {
+    console.log('another function');
+}
